@@ -1,7 +1,7 @@
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Website.png)
-now with branch protection on main!
+All changes in git repo, so if branch protected, you need reviews!
 
 I can link an issue to a piece of work to get traceability
 
