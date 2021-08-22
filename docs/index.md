@@ -1,6 +1,6 @@
 # Tailwind Traders Website
 
-![Tailwind Traders Website](docs/Images/Website.png)
+![Tailwind Traders Website](Website.png)
 now with branch protection on main!
 
 I can link an issue to a piece of work to get traceability
@@ -24,7 +24,7 @@ For this demo reference, we built several consumer and line-of-business applicat
 
 With the following ARM template you can automate the creation of the resources for this website.
 
-[![Deploy to Azure](docs/Images/deploy-to-azure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FTailwindTraders-Website%2Fmaster%2FDeploy%2Fdeployment.json)
+[![Deploy to Azure](deploy-to-azure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FTailwindTraders-Website%2Fmaster%2FDeploy%2Fdeployment.json)
 
 When you deploy this website to Azure you can define the [Backend](https://github.com/Microsoft/TailwindTraders-Backend) you want to use in case you have deploy your own backend. By defaults it is configured the public Backend environment provided by Microsoft.
 
@@ -124,24 +124,24 @@ To install the web in AKS my-aks using production TLS certificates, located in r
 
 To use the customer support chat/call experience click on the chat bubble on the homepage and select the type of interaction.
 
-![Homepage chat bubble](docs/Images/Docs/homepage-chat-bubble.png)
+![Homepage chat bubble](homepage-chat-bubble.png)
 
 After being redirected to the call/chat page as per your selection enter your name and then click on Done once the chat/join meeting option is enabled click to join the conversation.
 
-![Enter name](docs/Images/Docs/meeting-enter-name.png)
+![Enter name](meeting-enter-name.png)
 
-![Join meeting](docs/Images/Docs/meeting-join.png)
+![Join meeting](meeting-join.png)
 
 At this moment you're in the lobby once the meeting organizer lets you in the chat/call is accessible.
 
-![Meeting](docs/Images/Docs/meeting-in-call.png)
+![Meeting](meeting-in-call.png)
 
-![Meeting](docs/Images/Docs/chat.png)
+![Meeting](chat.png)
 
 
 After joining in via chat/call the user is also provided with the option to switch from chat-to-call and vice-versa.
 
-![Switch to chat](docs/Images/Docs/call-switch.png)![Switch to call](docs/Images/Docs/chat-switch.png)
+![Switch to chat](call-switch.png)![Switch to call](chat-switch.png)
 
 
 
@@ -154,7 +154,7 @@ Steps to search:
 
 1. In home of the website, click in the "Start smart shopping" button.
 
-![Start Smart Shopping Button](docs/Images/Docs/Start_Smart_Shopping_Button.PNG)
+![Start Smart Shopping Button](Start_Smart_Shopping_Button.PNG)
 
 2. Select a photo to upload and send it.
    - If website has more than 1 suggested products
@@ -164,25 +164,25 @@ Steps to search:
 
 To use this search, you can use the images in:
 
-- [docs/Images/TestImages](docs/Images/TestImages)
+- [docs/Images/TestImages](TestImages)
 
 ### Rechargable screwdriver sample
 
-If you select the [Electric Screwdriver](docs/Images/TestImages/electric_screwdriver.jpg) should be appears 3 suggested products similar to:
+If you select the [Electric Screwdriver](electric_screwdriver.jpg) should be appears 3 suggested products similar to:
 
-![Rechargeable Screwdriver Suggested Products](docs/Images/Docs/rechargeable_Screwdriver_Suggested_Products.PNG)
+![Rechargeable Screwdriver Suggested Products](rechargeable_Screwdriver_Suggested_Products.PNG)
 
 ### Multi-tool plier sample
 
-If you select the [Multi-Tool Plier](docs/Images/TestImages/multi-tool_plier.jpg) should be appears 3 suggested products similar to:
+If you select the [Multi-Tool Plier](multi-tool_plier.jpg) should be appears 3 suggested products similar to:
 
-![Multi-Tool Plier Suggested Products](docs/Images/Docs/multi-tool_plier_Suggested_Products.PNG)
+![Multi-Tool Plier Suggested Products](multi-tool_plier_Suggested_Products.PNG)
 
 ### Hard hat sample
 
-If you select the [Hard Hat](docs/Images/TestImages/hard_hat.jpg) should be redirect to product detail, beacuse only have a 1 suggested product:
+If you select the [Hard Hat](TestImages/hard_hat.jpg) should be redirect to product detail, beacuse only have a 1 suggested product:
 
-![Hard Hat Suggested Product Detail](docs/Images/Docs/hard_Hat_Suggested_Product_Detail.PNG)
+![Hard Hat Suggested Product Detail](Docs/hard_Hat_Suggested_Product_Detail.PNG)
 
 # Contributing
 
