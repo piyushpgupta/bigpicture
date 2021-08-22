@@ -1,4 +1,4 @@
-# Tailwind Traders Website
+# Tailwind Traders Website, All changes via your repo. So when branch policy set, needs reviews.
 
 ![Tailwind Traders Website](Website.png)
 now with branch protection on main!
