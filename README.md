@@ -2,7 +2,7 @@
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 now with branch protection on main!
-
+Verify the changes
 I can link an issue to a piece of work to get traceability
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
